@@ -1,7 +1,3 @@
-# Assignment 1 - Student's Report
-
-Author: Pooja Timalsina 
-Student ID: 220245940
 
 ## Class of the Agent Program
 
